@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "社会热点",
+        "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 2,
+        "title": "测试",
+        "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "测试测试",
+        "desc": "内容",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/4818634-6cd28d15445b648b.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 2,
+        "title": "测试测试",
+        "desc": "内容",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/4818634-6cd28d15445b648b.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      }
+    ]
+  }
+}
