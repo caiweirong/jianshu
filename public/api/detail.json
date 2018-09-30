@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "title": "title",
+    "imgUrl": "//upload-images.jianshu.io/upload_images/7044932-5f29c1bf491c67c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/640/format/webp",
+    "content": [
+      "内容1",
+      "内容2",
+      "内容3"
+    ]
+  }
+}
